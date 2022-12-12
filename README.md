@@ -14,4 +14,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
+## Used Technologies
+Angular model, modelBinding, ngModel
+
 ![todolist](https://user-images.githubusercontent.com/37180505/207013505-f5acc995-0522-454f-9230-ae5508b8cd6b.png)
